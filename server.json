@@ -15,6 +15,14 @@
           "category": "Alimentação",
           "price": 50,
           "createdAt": "2023-01-28T16:46:30.100Z"
+        },
+        {
+          "id": 3,
+          "description": "Energia",
+          "type": "outcome",
+          "category": "Consumo",
+          "price": 237,
+          "createdAt": "2023-01-28T16:46:30.100Z"
         }
       ]
 }
